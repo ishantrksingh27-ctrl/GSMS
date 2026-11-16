@@ -1,0 +1,5 @@
+Rice: 150
+Sugar: 50
+Milk: 40
+Oil: 20
+butter: 20
